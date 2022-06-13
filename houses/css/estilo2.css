@@ -1,0 +1,26 @@
+*
+{
+	margin:5px;
+	padding:5px;
+}
+header{
+	background-color: #D6DBDF;
+	text-align: center;
+	font-family: bodony mt black;
+	font-size: 45px;
+	color:#9A7D0A ;
+}
+body{
+	background-color:#7D6608;
+	color:#ffffff;
+}
+p{
+	font-family:book antiqua;
+	text-align:justify;
+}
+img{
+	display: block;
+	margin:0px auto;
+	height: 280px;
+	width: 207px;
+}
